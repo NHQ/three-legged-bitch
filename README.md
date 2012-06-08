@@ -1,6 +1,6 @@
 **Three Legged Bitch**
 
-This here is a tiny, super simple https proxy, made with [https://github.com/mikeal/request]Request. You will need Node.js as well, and your own server.
+This here is a tiny, super simple https proxy, made with [Request](https://github.com/mikeal/request). You will need Node.js as well, and your own server.
 
 You have to change the proxy settings on your computer, and maybe in your browser as well. Proxy HTTP request to localhost:8000
 
