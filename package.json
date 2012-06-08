@@ -1,0 +1,13 @@
+{ "name" : "three-Legged-bitch  "
+, "description" : "localhost https proxy"
+, "tags" : []
+, "version" : "0.1"
+, "author" : "Johnny <jonathon@nationalheadquarters.org>"
+, "repository" :
+  { "type" : "git"
+  , "url" : "http://github.com/NHQ/three-legged-bitch.git"
+  }
+, "bugs" :
+  { "url" : "http://github.com/NHQ/three-legged-bitch/issues" }
+, "engines" : ["node >= 0.3.6"]
+}
