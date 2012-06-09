@@ -2,7 +2,7 @@ var request = require('request')
 	,	http = require('http')
 	,	url = require('url')
 	,	qs = require('querystring')
-	,	remoteHost = 'your remote server' // change this to your server's domain or IP address
+	,	remoteHost = '74.207.246.247' // change this to your server's domain or IP address
 ;
 
 http.createServer(function(req, res){

@@ -8,7 +8,10 @@ Start localhost.js on your machine.
 
 Start remoteHost.js on your server.
 
+**whats it for?**
+
+I built it to bypass tethering restrictions newly imposed by my wireless carrier. They started blocking all insecure traffic. This proxy's my HTTP thru an HTTPS tunnel.
+
 **limitations**
 
-Gzipped data gets downloaded like a file (using Chrome). I don't know what to do about it. 
-Probably there are other things. But just look how simple it is!
+Gzipped data gets downloaded like a file (using Chrome).Probably there are other things.
